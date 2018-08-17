@@ -1,4 +1,4 @@
-# Alpine image with VPP
+# VPP on Alpine (with glibc)
 
 :warning: NOTE: This is currently not working and is used for testing VPP compilation on alpine with glibc.
 
